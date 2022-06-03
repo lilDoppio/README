@@ -4,6 +4,8 @@
 
 Я Junior full-stack разработчик. Имею большой опыт написания SPA с использованием React на клиентское части и Node.js на серверной частях приложения. Знаю как работает http, cors, jwt, много работал с SQL и noSQL базами данных (лично предпочитаю PostgreSQL).  Имею активную жизненную позицию, и большое стремление продолжать развиваться в этом направлении.   
 
+---
+
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
@@ -15,7 +17,14 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" **alt="TypeScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" **alt="PHP" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
 </p>
+
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilDoppio&layout=compact&theme=vision-friendly-dark)
 
